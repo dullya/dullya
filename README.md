@@ -8,12 +8,10 @@
 
 
 
-<a href="https://github.com/dullya/github-readme-stats">
-  <img height=150 align="center"  src="https://github-readme-stats.vercel.app/api?username=dullya&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=dullya&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
-</a>
+<div  align="center" style="margin-bottom:100px">
+<img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dullya&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=dullya&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 
 <div style ="display inline_block"><br>
@@ -22,3 +20,11 @@
 
 
 ##
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/dullyapetronilio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="linkedin.com/in/dullya-petronilio-desenvolvedora/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
