@@ -4,7 +4,7 @@
 
 
 - 🌱 Estudando: Java
-- 😄 Pronouns: ela/dela
+
 
 
 
@@ -13,13 +13,17 @@
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=dullya&show_icons=true&theme=radical&layout=compact" />
  </div>
 
+## My Skills
 
-<div style ="display inline_block"><br>
-  <img allign="center" alter "Java" height="30" whidth ="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+#### Main Stack:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)&nbsp;
 
+#### Studying in this moment:
 
-##
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=whit)&nbsp;
+![Spring boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ## Contacts:
 
