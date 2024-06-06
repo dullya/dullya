@@ -10,7 +10,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=dullya&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://readne-stasts.vercel.app/api/top-langs/?username=dullya&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-hzoy.vercel.app/api/top-langs/?username=dullya&show_icons=true&theme=radical&layout=compact" />
  </div>
 
 ## My Skills
