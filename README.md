@@ -46,19 +46,12 @@ Atualmente aprofundando conhecimentos em:
 <div align="center">
 
 <img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=dullya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" 
-/>
-
-<br/><br/>
-
-<img 
-  height="170em" 
-  src="https://streak-stats.demolab.com?user=dullya&theme=tokyonight&hide_border=true&border_radius=8" 
+  height="165em" 
+  src="https://github-readme-stats.vercel.app/api?username=dullya&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true&hide=issues" 
 />
 
 <img 
-  height="170em" 
+  height="165em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dullya&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" 
 />
 
